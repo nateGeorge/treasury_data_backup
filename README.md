@@ -7,7 +7,7 @@ https://www.federalreserve.gov/datadownload/Output.aspx?rel=H15&series=bf1736482
 
 Last time it looked like this when it was down, and it was down for 2 days:
 
-![fed_down.png]
+![fed_down.png](fed_down.png)
 
 This seemed to mainly be an issue for custom CSV data.
 
